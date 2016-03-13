@@ -1,4 +1,4 @@
 <?php
-//teste
+//teste 123456
 phpinfo();
 ?>
