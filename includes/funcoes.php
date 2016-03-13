@@ -1,4 +1,5 @@
 <?php
+//123123132
 function iniciarContainer($fluid=FALSE, $class='', $aux=''){
         echo '<div class="container'.($fluid?'-fluid':'').' '.$class.'" '.$aux.'>';
 }
